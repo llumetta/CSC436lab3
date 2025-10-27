@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet7.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet7.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet9.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet9.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet12.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet12.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet2.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet2.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet10.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet10.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet16.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet16.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet4.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet4.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet17.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet17.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet14.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet14.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet6.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet6.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet8.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet8.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet1.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet1.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/xml_backup_rules.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet11.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet11.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet3.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet3.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet15.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet15.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet18.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet18.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet5.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet5.jpg"
+    },
+    {
+        "merged": "com.zybooks.petadoption.app-debug-52:/drawable_pet13.jpg.flat",
+        "source": "com.zybooks.petadoption.app-main-54:/drawable/pet13.jpg"
+    }
+]

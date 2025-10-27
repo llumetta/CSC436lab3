@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pet1
+drawable pet10
+drawable pet11
+drawable pet12
+drawable pet13
+drawable pet14
+drawable pet15
+drawable pet16
+drawable pet17
+drawable pet18
+drawable pet2
+drawable pet3
+drawable pet4
+drawable pet5
+drawable pet6
+drawable pet7
+drawable pet8
+drawable pet9
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.PetAdoption
+xml backup_rules
+xml data_extraction_rules
